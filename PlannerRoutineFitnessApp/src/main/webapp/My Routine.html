@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Routine</title>
+
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+
+    <style>
+        body {
+            background-color: #111111; /* Dark background */
+            color: #FFDAB9; /* Light Peach text */
+        }
+
+        /* Custom Table Styling */
+        .table-dark {
+            --bs-table-bg: #222222; /* Dark table background */
+            --bs-table-border-color: #00FF00; /* Neon Green border */
+        }
+
+        /* Button Styles */
+        .btn-green {
+            background-color: #00FF00;
+            color: black;
+            font-weight: bold;
+        }
+        .btn-green:hover {
+            background-color: #33FF33;
+        }
+
+        .btn-edit {
+            background-color: #FF9A76; /* Coral Peach */
+            color: black;
+        }
+        .btn-edit:hover {
+            background-color: #FF7F50; /* Deep Peach */
+        }
+
+        .btn-delete {
+            background-color: #FF4500; /* Stronger Red */
+            color: white;
+        }
+        .btn-delete:hover {
+            background-color: #FF6347; /* Tomato Red */
+        }
+
+        /* Modal Styling */
+        .modal-content {
+            background-color: #FFDAB9; /* Light Peach */
+            color: black;
+        }
+    </style>
+</head>
+
+<body>
+
+    <!-- Page Header -->
+    <div class="container text-center mt-5">
+        <h1 class="fw-bold text-light">🏋️ My Workout Routine</h1>
+        <p class="text-secondary">Track your exercises and progress.</p>
+        <button class="btn btn-green mt-3" data-bs-toggle="modal" data-bs-target="#addExerciseModal">➕ Add Exercise</button>
+    </div>
+
+    <!-- Routine Table -->
+    <div class="container mt-4">
+        <table class="table table-dark table-bordered text-center">
+            <thead>
+                <tr class="text-neon">
+                    <th>Exercise</th>
+                    <th>Category</th>
+                    <th>Duration/Reps</th>
+                    <th>Actions</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Push-ups</td>
+                    <td>Strength</td>
+                    <td>3 sets of 15 reps</td>
+                    <td>
+                        <button class="btn btn-edit btn-sm">✏️ Edit</button>
+                        <button class="btn btn-delete btn-sm">🗑 Delete</button>
+                    </td>
+                </tr>
+                <tr>
+                    <td>Jumping Jacks</td>
+                    <td>Cardio</td>
+                    <td>2 minutes</td>
+                    <td>
+                        <button class="btn btn-edit btn-sm">✏️ Edit</button>
+                        <button class="btn btn-delete btn-sm">🗑 Delete</button>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+
+    <!-- Add Exercise Modal -->
+    <div class="modal fade" id="addExerciseModal" tabindex="-1" aria-labelledby="addExerciseModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title text-dark">Add Exercise</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    <form>
+                        <div class="mb-3">
+                            <label for="exerciseName" class="form-label text-dark">Exercise Name</label>
+                            <input type="text" class="form-control" id="exerciseName" required>
+                        </div>
+                        <div class="mb-3">
+                            <label for="exerciseCategory" class="form-label text-dark">Category</label>
+                            <select class="form-select" id="exerciseCategory">
+                                <option>Cardio</option>
+                                <option>Strength</option>
+                                <option>Flexibility</option>
+                            </select>
+                        </div>
+                        <div class="mb-3">
+                            <label for="exerciseDuration" class="form-label text-dark">Duration/Reps</label>
+                            <input type="text" class="form-control" id="exerciseDuration" required>
+                        </div>
+                        <button type="submit" class="btn btn-green w-100">➕ Add Exercise</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Bootstrap JS (Required for Modals) -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+
+</body>
+</html>
