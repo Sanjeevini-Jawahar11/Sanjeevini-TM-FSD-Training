@@ -1,0 +1,36 @@
+<div>
+  <div class="login-container">
+    <div class="logo">PLAY-STORE</div>
+    <div class="desc">
+      Play-Store is a global digital content store that makes it easy for more
+      than 2.5 billion monthly users across 190+ markets worldwide to discover
+      millions of high-quality apps,games, books, and more. We connect people
+      looking for apps and games they'll love with the businesses who build
+      them.
+    </div>
+  </div>
+  <div class="login-form">
+    <div class="form-group">
+      <label for="name">UserName</label>
+      <input
+        type="text"
+        name="uname"
+        class="form-control" 
+        [(ngModel)]="username"
+      />
+    </div>
+    <div class="form-group">
+      <label for="password">Password</label>
+      <input
+        type="password"
+        name="pword"
+        class="form-control"
+        [(ngModel)]="password"
+      />
+    </div>
+    <div class="btn-container">
+        <div class="error">{{errormsg}}</div>
+      <button class="btn btn-primary" (click)="login()">login</button>
+    </div>
+  </div>
+</div>

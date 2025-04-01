@@ -1,0 +1,199 @@
+[
+    {
+        "id": "17",
+        "name": "Subway Surfers",
+        "cover": "https://www.androidauthority.com/wp-content/uploads/2017/01/aa-subway-surfers-hero-1.jpg",
+        "rating": 4.7,
+        "reviews": 1800
+    },
+    {
+        "id": "18",
+        "name": "Temple Run",
+        "cover": "https://www.vice.com/wp-content/uploads/sites/2/2021/08/1628179209216-new-project-16.jpeg",
+        "rating": 4.1,
+        "reviews": 1900
+    },
+    {
+        "id": "19",
+        "name": "Candy Crush",
+        "cover": "https://store-images.s-microsoft.com/image/apps.52397.13510798882606697.1816f804-e7fd-4295-9275-23dec3563baf.2ef7ec2d-2e37-489e-b6ac-b5f5e44d429c?mode=scale&q=90&h=1080&w=1920",
+        "rating": 4.4,
+        "reviews": 1700
+    },
+    {
+        "id": "20",
+        "name": "Free Fire",
+        "cover": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe70e358e-47f2-4af4-974a-16535d969d72_1200x800.webp",
+        "rating": 4.9,
+        "reviews": 2200
+    },
+    {
+        "id": "21",
+        "name": "Animal Crossing",
+        "cover": "https://assets.nintendo.com/image/upload/q_auto/f_auto/ncom/software/switch/70010000027619/9989957eae3a6b545194c42fec2071675c34aadacd65e6b33fdfe7b3b6a86c3a",
+        "rating": 4.3,
+        "reviews": 1600
+    },
+    {
+        "id": "22",
+        "name": "Ludo King",
+        "cover": "https://dnm.nflximg.net/api/v6/BvVbc2Wxr2w6QuoANoSpJKEIWjQ/AAAAQbdPRs1t9wTGKE4EarSFVkbjyp8uaSulJkcMv2OcOWE4pt5TxIYw-Y0uSt73FKzeWuBqYj_DGJEUM2qnXWl7UjpoU9EWJdJwi34sexDwDL-kQTeBu1fafES1dOzO6kZvdwNolL8qEBzNkV4EafGDvEh3.jpg?r=ebd",
+        "rating": 4.5,
+        "reviews": 1750
+    },
+    {
+        "id": "23",
+        "name": "Among Us",
+        "cover": "https://cdn1.epicgames.com/salesEvent/salesEvent/amoguslandscape_2560x1440-3fac17e8bb45d81ec9b2c24655758075",
+        "rating": 4.2,
+        "reviews": 1500
+    },
+    {
+        "id": "24",
+        "name": "Clash of Clans",
+        "cover": "https://supercell.com/images/4c0ab0c1fb2958e72103f81632fee096/og_clashofclans.f3149338.jpg",
+        "rating": 4.6,
+        "reviews": 1850
+    },
+    {
+        "id": "25",
+        "name": "PUBG Mobile",
+        "cover": "https://cdn.prod.website-files.com/6657421f71dedfccb6c0511b/67885c33d4a048f2df9c8af2_66bea0b210c947d3792e798a_pubg-mobile-battle-royale-video-game-g65tnwjjt1iwoyto.jpeg",
+        "rating": 4.8,
+        "reviews": 1950
+    },
+    {
+        "id": "26",
+        "name": "Fortnite",
+        "cover": "https://cdn1.epicgames.com/offer/fn/FNBR_34-00_C6S2_EGS_Launcher_KeyArt_FNlogo_Blade_2560x1440_2560x1440-616cc879dcc03a6afc2f9edfff55eab9",
+        "rating": 4.0,
+        "reviews": 1300
+    },
+    {
+        "id": "27",
+        "name": "Slaugther 2",
+        "cover": "https://i.ytimg.com/vi/UPSNaVjcMU8/hqdefault.jpg",
+        "rating": 4.3,
+        "reviews": 1400
+    },
+    {
+        "id": "28",
+        "name": "The Archero",
+        "cover": "https://i.ytimg.com/vi/8BiK1iDqzWU/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAQ4v8qUA30GIVZttkGeKm5hTFxQw",
+        "rating": 4.1,
+        "reviews": 1600
+    },
+    {
+        "id": "29",
+        "name": "Scared Stone",
+        "cover": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/826040/capsule_616x353.jpg?t=1614737110",
+        "rating": 4.7,
+        "reviews": 1800
+    },
+    {
+        "id": "30",
+        "name": "Vulture",
+        "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkU6ecPTW_Xu_emetF13aIR_0wFJ2PBNAklA&s",
+        "rating": 4.5,
+        "reviews": 1700
+    },
+    {
+        "id": "31",
+        "name": "Torpedo",
+        "cover": "https://cf.geekdo-images.com/oYd_cXzSB60T_7wejwW0lw__opengraph/img/3KQJ3W7kgigL7b4IZifHjtu1bcg=/0x0:1763x926/fit-in/1200x630/filters:strip_icc()/pic5475076.jpg",
+        "rating": 4.2,
+        "reviews": 1500
+    },
+    {
+        "id": "32",
+        "name": "The Green Tiger",
+        "cover": "https://i.ytimg.com/vi/tsp-tt4S9G4/maxresdefault.jpg",
+        "rating": 4.6,
+        "reviews": 1900
+    },
+    {
+        "id": "33",
+        "name": "Titanium Wars",
+        "cover": "https://cf.geekdo-images.com/jZ2hYfcomfHxXrKTAUl-1A__itemrep/img/KYN8ZcdudOxhQTQTuInQnJ-Z7oQ=/fit-in/246x300/filters:strip_icc()/pic1528436.jpg",
+        "rating": 4.8,
+        "reviews": 2000
+    },
+    {
+        "id": "34",
+        "name": "Saint La-Z-Boy",
+        "cover": "https://s.cafebazaar.ir/images/upload/screenshot/com.marothiatechs.lazyboy-3b8e63ef-f5b7-4800-8d21-3c78d5689ed8.jpeg?x-img=v1/resize,h_600,lossless_false/optimize",
+        "rating": 4.0,
+        "reviews": 1200
+    },
+    {
+        "id": "35",
+        "name": "Puzzle 3D",
+        "cover": "https://i.ytimg.com/vi/WHonpQBrN0s/maxresdefault.jpg",
+        "rating": 4.4,
+        "reviews": 1600
+    },
+    {
+        "id": "36",
+        "name": "Fruit Ninja",
+        "cover": "https://play-lh.googleusercontent.com/CjAkksU-0M4wlJ2HKuGtwLlTK_49Y5SwEy66v-jYiFI0FLwCyhrfrTUkZ7rft6zonWQ=w526-h296-rw",
+        "rating": 4.9,
+        "reviews": 2100
+    },
+    {
+        "id": "37",
+        "name": "Angry Birds",
+        "cover": "https://www.angrybirds.com/wp-content/uploads/2023/01/202301_AB_characters_1920x1080.jpg",
+        "rating": 4.3,
+        "reviews": 1700
+    },
+    {
+        "id": "38",
+        "name": "The Red Wolf",
+        "cover": "https://i.ytimg.com/vi/oFiTgiHR-f4/maxresdefault.jpg",
+        "rating": 4.1,
+        "reviews": 1400
+    },
+    {
+        "id": "39",
+        "name": "The Dark Horse",
+        "cover": "https://cf.geekdo-images.com/rdMLMGQ9EFf0mWsAzD0qmw__opengraph/img/dQEhyPwuLc5pfH99JCaE-o6BbuI=/0x0:1195x627/fit-in/1200x630/filters:strip_icc()/pic1076386.jpg",
+        "rating": 4.7,
+        "reviews": 1800
+    },
+    {
+        "id": "40",
+        "name": "Sniper",
+        "cover": "https://play-lh.googleusercontent.com/GSu9fWzk0mN5SGK8wk4ftmhRiRnThk9Gg4YnIOPClt0evy_4-v7_hat1dU6WBL6bDg=w526-h296-rw",
+        "rating": 4.5,
+        "reviews": 1700
+    },
+    {
+        "id": "41",
+        "name": "Vector",
+        "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ6e9pH8ITLg5F3BuJsQMkRR7kUngXTtTpaw&s",
+        "rating": 4.2,
+        "reviews": 1500
+    },
+    {
+        "id": "42",
+        "name": "The Blue Whale",
+        "cover": "https://play-lh.googleusercontent.com/TtnGragGH2V4CMOpj1t36noBQ-8-fkWi_UYhFBGmloz0sSVWMFK7mBdbyqJSGS3aOA=w526-h296-rw",
+        "rating": 4.6,
+        "reviews": 1900
+    },
+    {
+        "id": "43",
+        "name": "Chess",
+        "cover": "https://store-images.s-microsoft.com/image/apps.38514.9007199266508173.4ea87d1d-387a-490a-b719-da7287244012.539b3de4-4752-4086-a84a-5a196890e6da?w=672&h=378&q=80&mode=letterbox&background=%23FFE4E4E4&format=jpg",
+        "rating": 4.6,
+        "reviews": 1900
+    },
+    {
+        "id": "44",
+        "name": "Animal well",
+        "cover": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/813230/ss_8773f0939bfd96fe25fbb7395bbae3d725044b12.1920x1080.jpg?t=1736282851",
+        "rating": 4.6,
+        "reviews": 1900
+        
+    }
+]

@@ -1,0 +1,55 @@
+<app-header></app-header>
+<div class="home-container">
+    <div class="all-games">
+        <div class="Trending-Games">
+            <div class="top">
+                <h4>TRENDING GAMES</h4>
+                <div class="view-all">view-all</div>
+            </div>
+            <div class="games-thumbnail">
+                <div *ngFor="let game of trendingGames" class="game">
+                    <div class="cover">
+                        <img src="{{game.cover}}" alt="" style="width: 300px; height: 150px;">
+                    </div>
+                    <div class="detail">
+                        <div class="name">{{game.name}}</div>
+                        <div class="rating">
+                            <span class="rating-value">{{game.rating}}</span>
+                            <app-star-rating [rating]="game.rating"
+                            [isReadOnly]="true">
+                            </app-star-rating>
+                    </div>
+                </div>
+                </div>
+            </div>
+        </div>
+        <div class="Popular-Games">
+            <div class="top">
+                <h4>POPULAR GAMES</h4>
+                <div class="view-all">view-all</div>
+            </div>
+            <div class="games-thumbnail">
+                <div *ngFor="let game of populargames" class="game">
+                    <div class="cover">
+                        <img src="{{game.cover}}" alt="" style="width: 300px; height: 150px;">
+                    </div>
+                    <div class="detail">
+                        <div class="name">{{game.name}}</div>
+                        <div class="rating">
+                            <span class="rating-value">{{game.rating}}</span>
+                            <app-star-rating [rating]="game.rating"
+                            [isReadOnly]="true">
+                            </app-star-rating>
+                    </div>
+                </div>
+                </div>
+            </div>
+        </div>
+        <div class="Play-Store-Games">
+            <div class="top">
+                <h4>All Time Popular</h4>
+                
+            </div>
+        </div>
+    </div>
+</div>

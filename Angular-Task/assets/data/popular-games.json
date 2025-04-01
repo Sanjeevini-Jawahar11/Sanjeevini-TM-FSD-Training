@@ -1,0 +1,72 @@
+[
+    {
+        "id": "17",
+        "name": "Subway Surfers",
+        "cover": "https://www.androidauthority.com/wp-content/uploads/2017/01/aa-subway-surfers-hero-1.jpg",
+        "rating": 4.7,
+        "reviews": 1800
+    },
+    {
+        "id": "18",
+        "name": "Temple Run",
+        "cover": "https://www.vice.com/wp-content/uploads/sites/2/2021/08/1628179209216-new-project-16.jpeg",
+        "rating": 4.1,
+        "reviews": 1900
+    },
+    {
+        "id": "19",
+        "name": "Candy Crush",
+        "cover": "https://store-images.s-microsoft.com/image/apps.52397.13510798882606697.1816f804-e7fd-4295-9275-23dec3563baf.2ef7ec2d-2e37-489e-b6ac-b5f5e44d429c?mode=scale&q=90&h=1080&w=1920",
+        "rating": 4.4,
+        "reviews": 1700
+    },
+    {
+        "id": "20",
+        "name": "Free Fire",
+        "cover": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe70e358e-47f2-4af4-974a-16535d969d72_1200x800.webp",
+        "rating": 4.9,
+        "reviews": 2200
+    },
+    {
+        "id": "21",
+        "name": "Animal Crossing",
+        "cover": "https://assets.nintendo.com/image/upload/q_auto/f_auto/ncom/software/switch/70010000027619/9989957eae3a6b545194c42fec2071675c34aadacd65e6b33fdfe7b3b6a86c3a",
+        "rating": 4.3,
+        "reviews": 1600
+    },
+    {
+        "id": "22",
+        "name": "Ludo King",
+        "cover": "https://dnm.nflximg.net/api/v6/BvVbc2Wxr2w6QuoANoSpJKEIWjQ/AAAAQbdPRs1t9wTGKE4EarSFVkbjyp8uaSulJkcMv2OcOWE4pt5TxIYw-Y0uSt73FKzeWuBqYj_DGJEUM2qnXWl7UjpoU9EWJdJwi34sexDwDL-kQTeBu1fafES1dOzO6kZvdwNolL8qEBzNkV4EafGDvEh3.jpg?r=ebd",
+        "rating": 4.5,
+        "reviews": 1750
+    },
+    {
+        "id": "23",
+        "name": "Among Us",
+        "cover": "https://cdn1.epicgames.com/salesEvent/salesEvent/amoguslandscape_2560x1440-3fac17e8bb45d81ec9b2c24655758075",
+        "rating": 4.2,
+        "reviews": 1500
+    },
+    {
+        "id": "24",
+        "name": "Clash of Clans",
+        "cover": "https://supercell.com/images/4c0ab0c1fb2958e72103f81632fee096/og_clashofclans.f3149338.jpg",
+        "rating": 4.6,
+        "reviews": 1850
+    },
+    {
+        "id": "25",
+        "name": "PUBG Mobile",
+        "cover": "https://cdn.prod.website-files.com/6657421f71dedfccb6c0511b/67885c33d4a048f2df9c8af2_66bea0b210c947d3792e798a_pubg-mobile-battle-royale-video-game-g65tnwjjt1iwoyto.jpeg",
+        "rating": 4.8,
+        "reviews": 1950
+    },
+    {
+        "id": "26",
+        "name": "Fortnite",
+        "cover": "https://cdn1.epicgames.com/offer/fn/FNBR_34-00_C6S2_EGS_Launcher_KeyArt_FNlogo_Blade_2560x1440_2560x1440-616cc879dcc03a6afc2f9edfff55eab9",
+        "rating": 4.0,
+        "reviews": 1300
+    }
+]

@@ -1,0 +1,73 @@
+.home-container{
+    display: flex;
+    justify-content: space-between;
+.all-games{
+    width: 75%;
+    min-height: calc(100vh - 80px);
+    border-right: 1px solid cadetblue;
+    padding: 20px 40px;
+    font-family: "roboto",sans-serif;
+.top{
+    display: flex;
+    align-items: center;
+    justify-content: space-between; 
+    h4{
+        text-transform: uppercase;
+        font-weight: bold;
+        border-left: 5px ;
+        padding: left;
+    }
+    .view-all{
+        color: cadetblue;
+        text-transform: uppercase;
+        margin-right: 40px;
+        font-weight: bold;
+        text-decoration: none;
+        cursor: pointer;
+    }
+}
+.games-thumbnail{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: space-between;
+
+}
+.Popular-Games{
+    width: 25%;
+    min-height: calc(100vh - 80px);
+    padding: 20px 40px;
+    font-family: "roboto",sans-serif;
+    .top{
+        display: flex;
+        align-items: center;
+        justify-content: space-between; 
+        h4{
+            text-transform: uppercase;
+            font-weight: bold;
+            border-left: 5px ;
+            padding: left;
+        }
+        .view-all{
+            color: cadetblue;
+            text-transform: uppercase;
+            margin-right: 40px;
+            font-weight: bold;
+            text-decoration: none;
+            cursor: pointer;
+        }
+        .games-thumbnail{
+            display: flex;
+            flex-wrap: wrap;
+            gap: 20px;
+            justify-content: space-between;
+        
+        }
+}
+.rating{
+    padding: right;
+    position:relative;
+}
+}
+}
+}

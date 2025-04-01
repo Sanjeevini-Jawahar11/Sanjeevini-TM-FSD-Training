@@ -1,0 +1,73 @@
+[
+    {
+    "id": "35",
+    "name": "Puzzle 3D",
+    "cover": "https://i.ytimg.com/vi/WHonpQBrN0s/maxresdefault.jpg",
+    "rating": 4.4,
+    "reviews": 1600
+},
+{
+    "id": "36",
+    "name": "Fruit Ninja",
+    "cover": "https://play-lh.googleusercontent.com/CjAkksU-0M4wlJ2HKuGtwLlTK_49Y5SwEy66v-jYiFI0FLwCyhrfrTUkZ7rft6zonWQ=w526-h296-rw",
+    "rating": 4.9,
+    "reviews": 2100
+},
+{
+    "id": "37",
+    "name": "Angry Birds",
+    "cover": "https://www.angrybirds.com/wp-content/uploads/2023/01/202301_AB_characters_1920x1080.jpg",
+    "rating": 4.3,
+    "reviews": 1700
+},
+{
+    "id": "38",
+    "name": "The Red Wolf",
+    "cover": "https://i.ytimg.com/vi/oFiTgiHR-f4/maxresdefault.jpg",
+    "rating": 4.1,
+    "reviews": 1400
+},
+{
+    "id": "39",
+    "name": "The Dark Horse",
+    "cover": "https://cf.geekdo-images.com/rdMLMGQ9EFf0mWsAzD0qmw__opengraph/img/dQEhyPwuLc5pfH99JCaE-o6BbuI=/0x0:1195x627/fit-in/1200x630/filters:strip_icc()/pic1076386.jpg",
+    "rating": 4.7,
+    "reviews": 1800
+},
+{
+    "id": "40",
+    "name": "Sniper",
+    "cover": "https://play-lh.googleusercontent.com/GSu9fWzk0mN5SGK8wk4ftmhRiRnThk9Gg4YnIOPClt0evy_4-v7_hat1dU6WBL6bDg=w526-h296-rw",
+    "rating": 4.5,
+    "reviews": 1700
+},
+{
+    "id": "41",
+    "name": "Vector",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ6e9pH8ITLg5F3BuJsQMkRR7kUngXTtTpaw&s",
+    "rating": 4.2,
+    "reviews": 1500
+},
+{
+    "id": "42",
+    "name": "The Blue Whale",
+    "cover": "https://play-lh.googleusercontent.com/TtnGragGH2V4CMOpj1t36noBQ-8-fkWi_UYhFBGmloz0sSVWMFK7mBdbyqJSGS3aOA=w526-h296-rw",
+    "rating": 4.6,
+    "reviews": 1900
+},
+{
+    "id": "43",
+    "name": "Chess",
+    "cover": "https://store-images.s-microsoft.com/image/apps.38514.9007199266508173.4ea87d1d-387a-490a-b719-da7287244012.539b3de4-4752-4086-a84a-5a196890e6da?w=672&h=378&q=80&mode=letterbox&background=%23FFE4E4E4&format=jpg",
+    "rating": 4.6,
+    "reviews": 1900
+},
+{
+    "id": "44",
+    "name": "Animal well",
+    "cover": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/813230/ss_8773f0939bfd96fe25fbb7395bbae3d725044b12.1920x1080.jpg?t=1736282851",
+    "rating": 4.6,
+    "reviews": 1900
+    
+}
+]
